@@ -18,7 +18,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PGP
+namespace PgpCoreLib
 {
     public enum PGPFileType { Binary, Text, UTF8 }
 

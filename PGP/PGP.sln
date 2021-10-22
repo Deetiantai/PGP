@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGP", "PGP.csproj", "{C0CD330A-1555-4549-BC75-901CF27373D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PGPWithPublicPrivateKey", "PGPWithPublicPrivateKey\PGPWithPublicPrivateKey.csproj", "{DE0483CB-A44E-4D9B-BFFF-E4D61711F327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgpCoreLib", "PgpCoreLib\PgpCoreLib.csproj", "{EBDDA43A-CF37-41A5-BC35-3F72844A71B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C0CD330A-1555-4549-BC75-901CF27373D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C0CD330A-1555-4549-BC75-901CF27373D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C0CD330A-1555-4549-BC75-901CF27373D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C0CD330A-1555-4549-BC75-901CF27373D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE0483CB-A44E-4D9B-BFFF-E4D61711F327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0483CB-A44E-4D9B-BFFF-E4D61711F327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0483CB-A44E-4D9B-BFFF-E4D61711F327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0483CB-A44E-4D9B-BFFF-E4D61711F327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBDDA43A-CF37-41A5-BC35-3F72844A71B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDDA43A-CF37-41A5-BC35-3F72844A71B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDDA43A-CF37-41A5-BC35-3F72844A71B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDDA43A-CF37-41A5-BC35-3F72844A71B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

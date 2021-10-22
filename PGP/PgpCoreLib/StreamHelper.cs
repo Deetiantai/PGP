@@ -2,7 +2,7 @@
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PGP
+namespace PgpCoreLib
 {
 	public static class StreamHelper
 	{

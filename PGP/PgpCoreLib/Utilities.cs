@@ -13,7 +13,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace PGP
+namespace PgpCoreLib
 {
     /// <remarks>Basic utility class.</remarks>
     public sealed class Utilities

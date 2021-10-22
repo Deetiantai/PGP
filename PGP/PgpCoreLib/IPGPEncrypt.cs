@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Threading.Tasks;
 
-namespace PGP
+namespace PgpCoreLib
 {
     public interface IPGPEncrypt : IDisposable
     {

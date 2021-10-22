@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using Org.BouncyCastle.Bcpg.OpenPgp;
 
-namespace PGP
+namespace PgpCoreLib
 {
     /// <summary>
     /// Encryption Keys

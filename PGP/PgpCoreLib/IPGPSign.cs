@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace PGP
+namespace PgpCoreLib
 {
     public interface IPGPSign : IDisposable
     {

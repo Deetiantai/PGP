@@ -5,7 +5,7 @@ using System.IO;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PGP
+namespace PgpCoreLib
 {
     public sealed class Streams
     {
